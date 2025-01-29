@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POS02_invalidLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>409eee28-9eac-40ac-b0c7-e0de9bf03939</testCaseGuid>
+</TestCaseEntity>
