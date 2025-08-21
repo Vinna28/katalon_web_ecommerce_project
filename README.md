@@ -12,6 +12,11 @@ Proyek ini adalah **personal project** yang menggunakan **Katalon Studio** untuk
 
 ---
 
+##  Hasil Running
+[Screenshot](https://drive.google.com/file/d/1BCGcfUTWY9w9GcXqhkmmhYOn_cQWG71t/view?usp=sharing)
+
+---
+
 ##  Getting Started
 
 ### Prerequisites
