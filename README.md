@@ -28,7 +28,6 @@ Pilih Test Case yang ingin dijalankan (misalnya bagian carmudi) dan klik tombol 
 Setelah test selesai, laporan hasil akan tersedia di folder Reports/
 
 Project Structure
-
 .
 ├── Scripts/                # Kode automation script
 ├── Object Repository/      # Object-based locator yang reusable
