@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@alt='Vina Pratiwi']</value>
+         <value>/html/body/main/nav[2]/div/ul/li[1]/div/a/img</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>454d08d3-7bf0-420e-9e47-ba08f6640680</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +31,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//common.icarcdn.com/images/avatar-small.png</value>
+      <webElementGuid>2ceb7a9c-c41e-4584-92d1-9ddfb62c9741</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +39,7 @@
       <name>width</name>
       <type>Main</type>
       <value>32</value>
+      <webElementGuid>39e1e366-9603-4706-89be-a81e6c838f66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +47,7 @@
       <name>height</name>
       <type>Main</type>
       <value>32</value>
+      <webElementGuid>b140912a-7716-4eef-b70a-10e7d2ac7065</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block  radius--circle</value>
+      <webElementGuid>e60c9044-77c4-4e7a-9028-2a4e7e5ab301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,6 +63,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Vina Pratiwi</value>
+      <webElementGuid>d5ff6a78-a5e7-45c2-ba3b-b9b6ffc8fa1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,6 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;theme  theme--cm  theme--landing  body__header--sticky-top&quot;]/main[1]/nav[@class=&quot;header   one-whole  transition--default  js-desktop-menu  js-header--sticky-top&quot;]/div[@class=&quot;header__home-main&quot;]/div[@class=&quot;container  container--wide  portable-hard&quot;]/nav[@class=&quot;header__desktop  flex  flex--items-center&quot;]/ul[@class=&quot;header__menu  header__menu--right  flex__left-auto  visuallyhidden--palm&quot;]/li[@class=&quot;dropdown  dropdown--hover  dropdown--right  push-quarter--left  visuallyhidden--portable&quot;]/a[@class=&quot;hard&quot;]/img[@class=&quot;block  radius--circle&quot;]</value>
+      <webElementGuid>264075af-2462-4bac-bd75-b67680a7c800</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,6 +79,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Vina Pratiwi']</value>
+      <webElementGuid>fde38d97-240e-456f-b6cf-4132994b7f2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +87,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
+      <webElementGuid>ba975d31-d876-4ea3-950f-53a20ee86726</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -4,5 +4,6 @@
    <name>POS02_invalidLogin</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>409eee28-9eac-40ac-b0c7-e0de9bf03939</testCaseGuid>
 </TestCaseEntity>

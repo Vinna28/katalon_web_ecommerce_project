@@ -29,6 +29,8 @@ WebUI.setText(findTestObject('carmudi/HeaderPage/usernameEditText'), 'vinnz_pear
 
 WebUI.setEncryptedText(findTestObject('carmudi/HeaderPage/passwordEditText'), 'cavZ8PAcR4Ov8ULq3MV2Rw==')
 
+WebUI.click(findTestObject('carmudi/HeaderPage/checklistButtonLogin'))
+
 WebUI.click(findTestObject('carmudi/HeaderPage/loginButton'))
 
 WebUI.verifyElementText(findTestObject('carmudi/HeaderPage/invalidLoginMessage'), 'Username/email dan password tidak sesuai')

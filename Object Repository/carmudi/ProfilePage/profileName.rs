@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div[2]/div/div/div/div/div/div</value>
+         <value>//*[@id=&quot;v-menu-v-11&quot;]/div/div/div[1]/div[2]/div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>f30d1ef9-9984-4a3e-9d8e-966417872837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>c-card__title  u-text-bold  u-text-4        u-color-dark    </value>
+      <webElementGuid>aff3f3ae-2db6-4d2a-9808-bcfdacf00dd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vina Pratiwi</value>
+      <webElementGuid>88fd813e-4c43-4518-a2f5-079084fc6c0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;o-container  u-margin-top-lg&quot;]/div[@class=&quot;o-grid&quot;]/div[@class=&quot;o-grid__item  u-width-3/10  u-width-1@mobile            u-width-3/10&quot;]/div[@class=&quot;c-card  u-margin-bottom-md  u-padding-md&quot;]/div[@class=&quot;u-flex&quot;]/div[@class=&quot;c-card__head&quot;]/div[@class=&quot;c-card__title  u-text-bold  u-text-4        u-color-dark&quot;]</value>
+      <webElementGuid>c7d6b8d5-de62-4cfe-976f-4d4d821a05af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>a574eb85-d100-4bfa-a981-538c2a567845</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us'])[1]/following::div[7]</value>
+      <webElementGuid>ad416457-80da-4a81-9e8b-23bd1a4b1f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[2]/preceding::div[1]</value>
+      <webElementGuid>de49bbb8-b420-4609-873b-e8bfd852fddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dasbor'])[1]/preceding::div[2]</value>
+      <webElementGuid>4065954c-f8fe-43de-a605-e9840de3cf0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>c8df1507-d1cb-48f5-8232-a9117a075cea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

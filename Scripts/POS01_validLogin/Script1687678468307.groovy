@@ -29,9 +29,15 @@ WebUI.setText(findTestObject('carmudi/HeaderPage/usernameEditText'), 'vinnz_pear
 
 WebUI.setEncryptedText(findTestObject('carmudi/HeaderPage/passwordEditText'), 'z0eLnkwo8e9Kz0fw3aYZ6R/ACZFR4v9n')
 
+WebUI.click(findTestObject('carmudi/HeaderPage/checklistButtonLogin'))
+
 WebUI.click(findTestObject('carmudi/HeaderPage/loginButton'))
 
+WebUI.click(findTestObject('carmudi/HeaderPage/burgerIconMenu'))
+
 WebUI.click(findTestObject('carmudi/HeaderPage/profileIcon'))
+
+WebUI.click(findTestObject('carmudi/ProfilePage/enterProfile'))
 
 WebUI.verifyElementText(findTestObject('carmudi/ProfilePage/profileName'), 'Vina Pratiwi')
 

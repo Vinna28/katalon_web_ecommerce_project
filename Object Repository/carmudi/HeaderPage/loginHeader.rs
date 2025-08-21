@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Masuk')])[2]</value>
+         <value>/html/body/main/nav[1]/div[2]/div/nav/ul[2]/li[1]/div/ul/li[1]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>d693068a-193f-49cc-b3d8-08f525850251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/</value>
+      <webElementGuid>98a020b4-852a-4e31-9886-b8def8798935</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>data-auth</name>
       <type>Main</type>
       <value>login</value>
+      <webElementGuid>220e82c9-9357-4de2-b1c2-24b7bf5e7147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value> js-loginbtn</value>
+      <webElementGuid>dcb69ddd-7cb8-4fe2-9dc3-c618b372e8d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
+      <webElementGuid>3cebede5-50cf-46ab-8b06-7bfc812d700e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;theme  theme--cm  theme--landing  body__header--sticky-top&quot;]/main[1]/nav[@class=&quot;header   one-whole  transition--default  js-desktop-menu  js-header--sticky-top&quot;]/div[@class=&quot;header__home-main&quot;]/div[@class=&quot;container  container--wide  portable-hard&quot;]/nav[@class=&quot;header__desktop  flex  flex--items-center&quot;]/ul[@class=&quot;header__menu  header__menu--right  flex__left-auto  visuallyhidden--palm&quot;]/li[@class=&quot;dropdown  dropdown--hover  dropdown--right&quot;]/div[@class=&quot;dropdown__menu  hard&quot;]/ul[@class=&quot;dropdown__section  one-whole&quot;]/li[1]/a[@class=&quot;js-loginbtn&quot;]</value>
+      <webElementGuid>930f0113-92a7-4ea8-a67a-a6f706e51e7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Masuk')])[2]</value>
+      <webElementGuid>ff0ca293-fe96-4b0c-bbd9-7e55b5722370</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Review'])[2]/following::a[2]</value>
+      <webElementGuid>a42fc22f-6934-4c57-a4ac-1deb9df5f36c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita Otomotif'])[2]/following::a[3]</value>
+      <webElementGuid>33121694-2051-4857-872e-c9c6b9457acb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk sebagai Dealer'])[1]/preceding::a[1]</value>
+      <webElementGuid>bfa3c44f-e80e-40a0-b7e9-7075ffe7b085</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='atau'])[1]/preceding::a[2]</value>
+      <webElementGuid>ec6eafd2-d9d7-4f13-9d08-b7210e5424c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/')])[34]</value>
+      <webElementGuid>99cdb89e-dfca-4b6e-a916-5403f6d862b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +118,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[2]/li/div/ul/li/a</value>
+      <webElementGuid>5d3c6e46-340b-4632-8dac-5da768ce884f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

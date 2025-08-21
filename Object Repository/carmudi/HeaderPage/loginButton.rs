@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[3]/following::button[1]</value>
+         <value>/html/body/div[10]/div/div[2]/form[1]/div[5]/div[5]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>fc4caf20-cc39-4f19-8b97-2a115aa55c9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn  btn--primary  one-whole submit-btn</value>
+      <webElementGuid>f4bb2610-a7ec-4994-8b1f-c5f7bb3272c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
+      <webElementGuid>fc65224d-bc4f-4396-ba4d-7a21564aa936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;no--overflow&quot;]/body[@class=&quot;theme  theme--cm  theme--landing  body__header--sticky-top no--overflow&quot;]/div[@class=&quot;modal  modal--default  modal--auth  modal--fixed-foot&quot;]/div[@class=&quot;modal__container&quot;]/div[@class=&quot;modal__body  fill--grey  hard  auth-window  height--auto&quot;]/form[@class=&quot;chat-form  auth-form  fill--white   js-chat-login  js-login  js-form-ajax  js-form-validation js-screen-active&quot;]/div[@class=&quot;chat-form__body soft&quot;]/div[@class=&quot;form-action&quot;]/button[@class=&quot;btn  btn--primary  one-whole submit-btn&quot;]</value>
+      <webElementGuid>1993aa3f-e0ea-4492-9c5a-39a4ff49e1f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[3]/following::button[1]</value>
+      <webElementGuid>9179d5a3-81a8-4061-a08e-db14c45805dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[2]/following::button[1]</value>
+      <webElementGuid>e0adc691-cb1c-4ce1-adf4-4eca1494f591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum punya akun?'])[1]/preceding::button[1]</value>
+      <webElementGuid>22870980-db7d-4c55-a83f-cd150f9647d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk sebagai Dealer'])[2]/preceding::button[1]</value>
+      <webElementGuid>8219519e-53bf-42a9-9c59-99dbcbe082ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +87,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
+      <webElementGuid>3473c4a6-7d6e-46c4-a40c-5b0a5059f71a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

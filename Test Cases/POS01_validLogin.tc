@@ -4,5 +4,6 @@
    <name>POS01_validLogin</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f09b857b-df1a-4456-b770-4787cfe0d3ee</testCaseGuid>
 </TestCaseEntity>
