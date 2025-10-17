@@ -43,15 +43,15 @@ Project Structure
 ├── Profiles/               # Konfigurasi environment (prod, staging)
 └── settings/               # Project-specific Katalon settings
 
-What I Learned
-```bash
+### What I Learned
+
 Membangun automatisasi web end-to-end dengan Katalon Studio
 Mengelola lokasi elemen secara efisien menggunakan Object Repository
 Menyusun struktur proyek QA automation yang maintainable dan reusable, meski hanya di tingkat personal project
 Penggunaan Page Object Model (POM) agar kode lebih modular dan scalable
 
-Future Improvements
-```bash
+### Future Improvements
+
 Tambahkan data-driven testing untuk skenario checkout atau input variatif
 Integrasi reporting seperti HTML atau Allure report agar hasil test terdokumentasi lebih menarik
 Tambahkan GitHub Actions atau pipeline CI/CD untuk menjalankan test otomatis saat commit (seperti contoh pada [Katalon CI integrations]) 
