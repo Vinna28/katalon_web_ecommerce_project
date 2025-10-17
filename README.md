@@ -33,15 +33,16 @@ Pilih Test Case yang ingin dijalankan (misalnya bagian carmudi) dan klik tombol 
 Setelah test selesai, laporan hasil akan tersedia di folder Reports/
 
 Project Structure
-```bash
-.
-├── Scripts/                # Kode automation script
-├── Object Repository/      # Object-based locator yang reusable
-├── Test Cases/             # Test case-driven workflows
-├── Reports/                # Hasil test execution dan self-healing logs
-├── include/ config/        # Test data atau konfigurasi global
-├── Profiles/               # Konfigurasi environment (prod, staging)
-└── settings/               # Project-specific Katalon settings
+   ```bash
+   .
+   ├── Scripts/                # Kode automation script
+   ├── Object Repository/      # Object-based locator yang reusable
+   ├── Test Cases/             # Test case-driven workflows
+   ├── Reports/                # Hasil test execution dan self-healing logs
+   ├── include/ config/        # Test data atau konfigurasi global
+   ├── Profiles/               # Konfigurasi environment (prod, staging)
+   └── settings/               # Project-specific Katalon settings
+   ```
 
 ### What I Learned
 
