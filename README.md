@@ -33,6 +33,7 @@ Pilih Test Case yang ingin dijalankan (misalnya bagian carmudi) dan klik tombol 
 Setelah test selesai, laporan hasil akan tersedia di folder Reports/
 
 Project Structure
+```bash
 .
 ├── Scripts/                # Kode automation script
 ├── Object Repository/      # Object-based locator yang reusable
@@ -43,14 +44,14 @@ Project Structure
 └── settings/               # Project-specific Katalon settings
 
 What I Learned
-
+```bash
 Membangun automatisasi web end-to-end dengan Katalon Studio
 Mengelola lokasi elemen secara efisien menggunakan Object Repository
 Menyusun struktur proyek QA automation yang maintainable dan reusable, meski hanya di tingkat personal project
 Penggunaan Page Object Model (POM) agar kode lebih modular dan scalable
 
 Future Improvements
-
+```bash
 Tambahkan data-driven testing untuk skenario checkout atau input variatif
 Integrasi reporting seperti HTML atau Allure report agar hasil test terdokumentasi lebih menarik
 Tambahkan GitHub Actions atau pipeline CI/CD untuk menjalankan test otomatis saat commit (seperti contoh pada [Katalon CI integrations]) 
